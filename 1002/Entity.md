@@ -3,7 +3,7 @@
 ## 목차
 > ---
 >- [Entity 정의](#Definition)
->- [MVC 패턴에서 Controller 역할](#the-entity's-role)
+>- [Entity 역할](#the-entity's-role)
 >- [관련 용어 정리](#Term)
 >- [주요 어노테이션](#key-annotations)
 >- [Entity 동작 흐름 예제](#example-of-entity-workflow)
