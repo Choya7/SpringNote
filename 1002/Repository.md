@@ -8,6 +8,7 @@
 >- [주요 어노테이션](#key-annotations)
 >- [Repository 인터페이스 구조](#repository-interface-structure)
 >- [Repository 동작 흐름 예제](#example-of-repository-workflow)
+>- [동작 순서(흐름)](#execution-flow)
 >---
 
 
@@ -138,7 +139,7 @@
 >```
 >---
 
-### 동작 순서(흐름)
+### Execution Flow
 >---
 > 1. 클라이언트 → Controller 호출
 > 2. Controller → Service 호출
